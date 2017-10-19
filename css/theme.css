@@ -119,9 +119,7 @@ a:hover,a:focus {
 	padding:100px 0 100px 0;
 	text-align:center;
 	color:#fff;
-	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.88)),url('http://unsplash.it/1600/1400?random=9');
-	-webkit-background-size:cover;
-	-moz-background-size:cover;
+	background-image:radial-gradient(circle at 5% 5%,rgba(0,0,0,0.40),rgba(0,0,0,0.100)),url('https://scontent.fagc1-2.fna.fbcdn.net/v/t31.0-8/12719121_955520454525767_5304498232421168668_o.jpg?oh=2fe61b8f353105a00786e7126b8d56fb&oe=5A7E6403');
 	background-size:cover;
 	-o-background-size:cover;
 }
